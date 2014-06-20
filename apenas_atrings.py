@@ -6,4 +6,6 @@ while variavel != 'sair':
         print 'Inserir apenas string'
         variavel = raw_input('Entre com o nome: ')
     else:
-        variavel = raw_input('Entre com o nome: ')
+        'guarda a variavel'
+        
+    variavel = raw_input('Entre com o nome: ')
